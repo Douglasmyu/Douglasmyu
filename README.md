@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<h1 align ="center">Hi I'm Douglas👋</h1>
+<h3 align ="center">I am a student at CSU Fullerton</h3>
+<p>When I'm not in school, I love to play badminton 🏸 and golf 🏌️</p>
 <!--
 **Douglasmyu/Douglasmyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
